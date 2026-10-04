@@ -1,1 +1,22 @@
-Cookie: ttwid=1%7CW6NKiVdnT1TCGSoOEMhEHGrHvyPOpqPoLuXKd7Awxg0%7C1791126303%7Cedcfb4d5cf5ec85214cd0c87863b162eba89e390651f6cc814ba16340b4cd288; msToken=7D7vVsCUa9x9UBkY2mkHMsu7rCSwuxJP6V0-z_GWJlTAxmC2Kx3v7W9Azf5VksShbb6NGlD_gqHawdz4KldsqUjflon0ksrrhQ2CBukSv0EHX_Dg9APcjVhViSCbLFS77sCB4wK-W3KfRoeSRUxzQi_cSk4m0ZQ9;
+TokenManager:
+  tiktok:
+    headers:
+      User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36
+      Referer: https://www.tiktok.com/
+      Cookie: ttwid=1%7CW6NKiVdnT1TCGSoOEMhEHGrHvyPOpqPoLuXKd7Awxg0%7C1791126303%7Cedcfb4d5cf5ec85214cd0c87863b162eba89e390651f6cc814ba16340b4cd288; msToken=7D7vVsCUa9x9UBkY2mkHMsu7rCSwuxJP6V0-z_GWJlTAxmC2Kx3v7W9Azf5VksShbb6NGlD_gqHawdz4KldsqUjflon0ksrrhQ2CBukSv0EHX_Dg9APcjVhViSCbLFS77sCB4wK-W3KfRoeSRUxzQi_cSk4m0ZQ9;
+
+    proxies:
+      http:
+      https:
+
+    msToken:
+      url: https://mssdk.tiktokw.us/web/report?msToken=1Ab-7YxR9lUHSem0PraI_XzdKmpHb6j50L8AaXLAd2aWTdoJCYLfX_67rVQFE4UwwHVHmyG_NfIipqrlLT3kCXps-5PYlNAqtdwEg7TrDyTAfCKyBrOLmhMUjB55oW8SPZ4_EkNxNFUdV7MquA==
+      magic: 538969122
+      version: 1
+      dataType: 8
+      strData: 3BvqYbNXLLOcZehvxZVbjpAu7vq82RoWmFSJHLFwzDwJIZevE0AeilQfP55LridxmdGGjknoksqIsLqlMHMif0IFK/Br7JWqxOHnYuMwVCnttFc0Y4MFvdVWM5FECiEulJC0Dc+eeVsNSrFnAc9K7fazqdglyJgGLSfXIJmgyCvvQ4pg0u5HBVVugLSWs242X42fjoWymaUCLZJQo6vi6WLyuV7l5IC3Mg+lelr5xBQD6Q7hBIFEw8zzxJ1n2DyA4xLbOHTQdKvEtsK7XzyWwjpRnojPTbBl69Zosnuru+lOBIl+tFu/+hCQ1m0jYZwTP4rVE75L3Du6+KZ5v/9TyFYjq7y3y9bGLP4d7yQueJbF90G1yrZ6htElrZ2vqZKDrIqBVbmOZr/nph12k2JKrITtN0R/pMsp0sJ4gesQnXxcD/pLOFAINHk7umgbe6LzJ7+TLUdGuO4M7xiEg/jCqhjgJX1izZ4NPoBDp35zRxj6Y6OrcstlTN/cv5sz663+Nco/mEwhGq2VwrL4gAIAPycndIsb48dPdtngmLqNDNN0ZyVRjgqVIDXXrxigXCkR9CH89Dlrrb7QQqWVgRXz9/k5ihEM43BR3sd3mMU/XgFLN1Aoxf6GzzdxP2QPBI75/ZoHoAmu54v8gTmA3ntCGlEF0zgaFGTdpkGdb+oZgyQM4pw1aAyxmFINXkpD3IKKoGev9kD9gTFnhiQMGCMemhZS7ZYdbuGu0Cb+lQKaL/QTt80FMyGmW8kzVy9xW/ja9BcdEJYRoaufuFRkBFG5ay8x4WHLR6hEapXqQial/cREbLL4sQytpjtmnndFqvT7xN5DhgsLY2Z7451MJhD6NJXKNrMafGZSbItzQWY=
+      User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36
+
+    ttwid:
+      url: https://www.tiktok.com/ttwid/check/
+      data: '{"aid":1988,"service":"www.tiktok.com","union":false,"unionHost":"","needFid":false,"fid":"","migrate_priority":0}'
